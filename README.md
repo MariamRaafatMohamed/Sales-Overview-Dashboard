@@ -8,4 +8,4 @@ Provides insights on total order sales distributed by month, product category, a
 - Bar chart displaying sales by day of the week.
 
 ### 📷 Screenshot:
-[[![Sales Overview](Sales-screen.png)
+![Sales Overview](Sales-screen.png)
